@@ -1,11 +1,4 @@
-Mantap, script-nya sudah lengkap: satu untuk **pelatihan**, satu untuk **pengujian + prediksi** 👌
-Sekarang gua gabungin semuanya jadi README yang lebih profesional untuk repo curah hujan lo.
 
----
-
-## 📝 README.md (versi AI Engineer)
-
-Silakan copy–paste ini sebagai `README.md` di repo curah hujan (misalnya `rainfall-ann-matlab`):
 
 ````markdown
 # 🌧️ Prediksi Curah Hujan Bulanan Menggunakan ANN (MATLAB)
